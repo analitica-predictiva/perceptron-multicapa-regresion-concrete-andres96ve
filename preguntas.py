@@ -135,7 +135,6 @@ def pregunta_05():
     """
     Evalue el modelo obtenido.
     """
-
     # Importe mean_squared_error
     from sklearn.metrics import mean_squared_error
 
